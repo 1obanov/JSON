@@ -1,0 +1,16 @@
+ [{
+     "id": 0,
+     "text": "Aenean laoreet 16, 68-852 Pellentesquesss",
+     "img_url": "ico-pin"
+   },
+   {
+     "id": 1,
+     "text": "+33 586 987 321",
+     "img_url": "ico-phone"
+   },
+   {
+     "id": 2,
+     "text": "vestibulum@curabitur.com",
+     "img_url": "ico-email"
+   }
+ ]
